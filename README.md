@@ -1,1 +1,1 @@
-# semi-supervised-continual-learning-with-meta-self-training
+# Semi-supervised Continual Learning with Meta Self-training
